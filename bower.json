@@ -5,8 +5,7 @@
     "homepage": "https://github.com/e-lfh/adapt-elfh-build-notes",
     "displayName": "e-LfH Build Notes",
     "extension": "elfhBuildNotes",
-    "description": "An extension to enable storing notes about the session build",
-    "main": "/js/adapt-elfh-build-notes.js",
+    "description": "An extension to enable storing notes about the session build",    
     "keywords": [
         "adapt-plugin",
         "adapt-extension"
