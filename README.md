@@ -2,7 +2,7 @@ adapt-elfh-build-notes
 =============================
 Plugin to enable storing some notes on the build
 
-
+![Build_Notes_Grab](https://user-images.githubusercontent.com/10856676/78891237-10c43f80-7a5f-11ea-8ad6-e87eb379bd3d.jpg)
 
 <div float align=right><a href="#top">Back to Top</a></div>  
 
