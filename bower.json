@@ -1,0 +1,16 @@
+{
+    "name": "adapt-elfh-build-notes",
+    "framework": ">=3",
+    "version": "1.0.0",
+    "homepage": "https://github.com/e-lfh/adapt-elfh-build-notes",
+    "displayName": "e-LfH Build Notes",
+    "extension": "elfhBuildNotes",
+    "description": "An extension to enable storing notes about the session build",
+    "main": "/js/adapt-elfh-build-notes.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3",
+    "targetAttribute": "_elfhBuildNotes"
+}

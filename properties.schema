@@ -1,0 +1,41 @@
+{
+  "type": "object",
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://jsonschema.net",
+  "properties": {
+    "pluginLocations": {
+      "type": "object",
+      "properties": {
+        "config": {
+          "type": "object",
+          "properties": {}
+        },
+		"course": {
+          "type":"object",
+          "properties":{             
+            "_elfhBuildNotes": {
+              "type": "object",
+              "required": false,
+              "legend": "Build Notes",
+              "properties": {                            
+				  "_notes": {
+                  "type": "string",
+                  "required": true,
+                  "default": "<p>Type your notes here</p>",
+                  "title": "Build notes",
+                  "inputType": "TextArea",
+                  "validators": [],
+                  "translatable": true,
+				          "help": "The text that the ID would like to store with the session"
+                }
+				
+			  }
+                
+              
+            }
+          }
+        }
+      }
+    }
+  }
+}
