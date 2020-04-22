@@ -30,7 +30,7 @@
 
                            ],
                            "translatable":true,
-                           "help":"The text that the ID would like to store with the session.<b>Do not include any sensitive information here as this text could be extracted from the published course. Note this text is however not displayed to a user of the session.</b>"
+                          "help":"The text that the ID would like to store with the session.<br /><b>DO NOT INCLUDE ANY SENSITIVE INFORMATION</b><br/>Whilst this text does not appear in the published session, it could be extracted from the zip file."
                         }
                      }
                   }
