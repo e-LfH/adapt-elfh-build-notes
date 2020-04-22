@@ -6,6 +6,7 @@
     "displayName": "e-LfH Build Notes",
     "extension": "elfhBuildNotes",
     "description": "An extension to enable storing notes about the session build",    
+    "main": "/js/adapt-elfh-build-notes.js",
     "keywords": [
         "adapt-plugin",
         "adapt-extension"
